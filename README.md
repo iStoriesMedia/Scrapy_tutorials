@@ -4,4 +4,5 @@
 Текстовые версии — на [сайте](https://istories.media/workshops/2021/11/26/parsing-s-pomoshchyu-python-urok-4/).  
 
 Коды скрейперов (book_spider.py и all_books_spider.py) лежат в папке Scrapy_tutorials/bestsellers/bestsellers/spiders/  
+  
 Результаты скрейпинга (book.csv и all_books.csv) лежат в папке Scrapy_tutorials/bestsellers/bestsellers/
